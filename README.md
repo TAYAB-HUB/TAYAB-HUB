@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**TAYAB-HUB/TAYAB-HUB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Syed Mohammed Tayab, a student currently pursuing bachelor's degree(B.Tech) in Presidency University.
 
-Here are some ideas to get you started:
+I'm mostly interseted in Data Science and Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, building models, and learning how insights can slove real-world problems.
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Tools & Tech
+
+Python,Pandas,Numpy
+Scikit-learn,Machine Learning
+Data Analysis & Visualization
+HTML,CSS
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
