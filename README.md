@@ -10,12 +10,12 @@ ________________________________________________________________________________
 
 ## Tools & Tech
 
-1.Python,Pandas,Numpy
+1.Python,Pandas,Numpy.
 
-2.Scikit-learn,Machine Learning
+2.Scikit-learn,Machine Learning.
 
-3.Data Analysis & Visualization
+3.Data Analysis & Visualization.
 
-4.HTML,CSS
+4.HTML,CSS.
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
